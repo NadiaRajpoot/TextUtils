@@ -34,4 +34,6 @@ Easily check the length of your text for concise communication.
 
 Textutils simplifies text editing with a user-friendly interface and a powerful set of features, making it your go-to tool for efficient text manipulation.
 
-Screenshots
+Screenshots:
+![image](https://github.com/NadiaRajpoot/TextUtils/assets/101450968/db34606a-9b32-4f91-b0e5-e936e890575b)
+
