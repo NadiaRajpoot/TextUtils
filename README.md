@@ -5,10 +5,10 @@
 <h3>TextUtils Web Page:</h3> A user-friendly React web application, powered by Create React App and Bootstrap, offering essential text manipulation tools. It allows users to easily convert text to uppercase or lowercase, remove extra spaces, copy text to the clipboard, preview text changes, and count words and characters with simplicity and efficiency
 
 
-<h5>Features:</h5>
+<h3>Features:</h3>
 It has various features such as:
 
-<b>Case Conversion:<b/>
+Case Conversion:
 Convert text to UPPERCASE for emphasis.
 Transform text to lowercase for a more subtle tone.
 
