@@ -1,7 +1,7 @@
 <h1 align="center">TextUtils</h1>
-<p align="center">
+
 ![image](https://github.com/NadiaRajpoot/TextUtils/assets/101450968/38a586a5-3608-4ffa-9d85-115f1225b3c6)
-<p/>
+
 <h3>extUtils Web Page:</h3> A user-friendly React web application, powered by Create React App and Bootstrap, offering essential text manipulation tools. It allows users to easily convert text to uppercase or lowercase, remove extra spaces, copy text to the clipboard, preview text changes, and count words and characters with simplicity and efficiency
 
 
@@ -48,9 +48,9 @@ Textutils simplifies text editing with a user-friendly interface and a powerful 
 
 🌚 **Dark Mode:**
 ![image](https://github.com/NadiaRajpoot/TextUtils/assets/101450968/f14e25dc-5c90-41e7-b256-53c186489ab2)
-<br>
+---
 ![image](https://github.com/NadiaRajpoot/TextUtils/assets/101450968/a06e9f60-9da7-41cf-93d0-c64184ecadb1)
-<br>
+---
 ![image](https://github.com/NadiaRajpoot/TextUtils/assets/101450968/e6fdd1c3-a97e-450d-a727-db9ec184aee4)
 
 
