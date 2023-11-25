@@ -2,10 +2,10 @@
 
 ![image](https://github.com/NadiaRajpoot/TextUtils/assets/101450968/38a586a5-3608-4ffa-9d85-115f1225b3c6)
 
-<h3>extUtils Web Page:</h3> A user-friendly React web application, powered by Create React App and Bootstrap, offering essential text manipulation tools. It allows users to easily convert text to uppercase or lowercase, remove extra spaces, copy text to the clipboard, preview text changes, and count words and characters with simplicity and efficiency
+<h3>TextUtils Web Page:</h3> A user-friendly React web application, powered by Create React App and Bootstrap, offering essential text manipulation tools. It allows users to easily convert text to uppercase or lowercase, remove extra spaces, copy text to the clipboard, preview text changes, and count words and characters with simplicity and efficiency
 
 
-<h3>Features:</h3>
+<h5>Features:</h5>
 It has various features such as:
 
 <b>Case Conversion:<b/>
