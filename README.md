@@ -6,7 +6,7 @@ TextUtils Web Page: A user-friendly React web application, powered by Create Rea
 <h1>Features:</h1>
 It has various features such as:
 
-<strong>Case Conversion:<strong/>
+<b>Case Conversion:<b/>
 Convert text to UPPERCASE for emphasis.
 Transform text to lowercase for a more subtle tone.
 
