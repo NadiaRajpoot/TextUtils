@@ -10,7 +10,7 @@ const About = (props) => {
   <div className="accordion-item" style={{backgroundColor: props.mode === 'light'? 'white':'#18191A',color: props.mode === 'light'? 'black':'white'}}>
      
     <h2 className="accordion-header">
-      <button className="accordion-button"   type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">  <strong>Analyze Your Text</strong></button>
+      <button className="accordion-button" style={{backgroundColor: props.mode === 'light'? 'white':'#18191A',color: props.mode === 'light'? 'black':'white'}}  type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">  <strong>Analyze Your Text</strong></button>
     </h2>
     <div id="collapseOne" className="accordion-collapse collapse show" data-bs-parent="#accordionExample">
       <div className="accordion-body">
