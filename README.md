@@ -52,7 +52,10 @@ Textutils simplifies text editing with a user-friendly interface and a powerful 
 ![image](https://github.com/NadiaRajpoot/TextUtils/assets/101450968/a06e9f60-9da7-41cf-93d0-c64184ecadb1)
 ---
 ![image](https://github.com/NadiaRajpoot/TextUtils/assets/101450968/e6fdd1c3-a97e-450d-a727-db9ec184aee4)
-
+---
+<p align="center">
+  Show some :heart: by starring the repository.
+</p>
 
 
 
