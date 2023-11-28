@@ -86,12 +86,12 @@ const TextArea = (props) => {
 </div>
 
 <div className="container">
-<button type="button" disabled = {text.length===0} className ="btn btn-primary " onClick={handleUpperCase} >Convert To Uppercase</button>
-<button type="button" disabled = {text.length===0} className ="btn btn-primary mx-2" onClick={handleLowerCase}>Convert To LowerCase</button>
+<button type="button" disabled = {text.length===0} className ="btn btn-primary  " onClick={handleUpperCase} >Convert To Uppercase</button>
+<button type="button" disabled = {text.length===0} className ="btn btn-primary mx-2 my-2" onClick={handleLowerCase}>Convert To LowerCase</button>
 <button type="button" disabled = {text.length===0} className ="btn btn-danger " onClick={handleClearText}>Clear text</button>
-<button type="button" disabled = {text.length===0} className ="btn btn-primary mx-2" onClick={removeExtraSpace}>Remove Extra Spaces</button>
+<button type="button" disabled = {text.length===0} className ="btn btn-primary mx-2 my-2" onClick={removeExtraSpace}>Remove Extra Spaces</button>
 <button type="button" disabled = {text.length===0} className ="btn btn-primary "onClick={handleCopy} >Copy to Clipboard</button>
-<button type="button" disabled = {text.length===0} className ="btn btn-success mx-2" onClick={handleUndo}>Undo</button>
+<button type="button" disabled = {text.length===0} className ="btn btn-success mx-2 my-2" onClick={handleUndo}>Undo</button>
 <button type="button" disabled = {text.length===0} className ="btn btn-primary " onClick={handleRedo}>Redo</button>
 <button type="button" disabled = {text.length===0} className ="btn btn-primary mx-1" onClick={reverseText}>Reverse Text</button>
 </div>
